@@ -1,5 +1,3 @@
 # Algorithms
 
-HeapSortK2 -- Using MAXHEAP
-
-HeapSortK3 -- Using MINHEAP
+[![Run on Repl.it](https://repl.it/badge/github/anupavanm/Algorithms)](https://repl.it/github/anupavanm/Algorithms)
